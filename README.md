@@ -9,15 +9,13 @@
 
 ## 🛠 Tech Stack
 
-**Language**
-
+### Language
 - Python
 - C
 - Java
 - HTML / CSS / JavaScript
 
-**IoT & AI**
-
+### IoT & AI
 - Raspberry Pi 5
 - ESP32
 - MQTT
@@ -25,8 +23,7 @@
 - PaddleOCR
 - OpenCV
 
-**Tools**
-
+### Tools
 - Git
 - GitHub
 - Linux
@@ -34,19 +31,19 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Main Projects
 
 ### 🧂 Smart Dispenser
-> 시각장애인을 위한 AI 스마트 양념 디스펜서
+> 시각장애인을 위한 AI 기반 스마트 양념 디스펜서
 
 ### 💊 Eyes
 > AI 기반 스마트 복약 케어 시스템
 
 ### 🌐 Portfolio
-> Spring Boot 기반 개인 포트폴리오
+> Spring Boot & Thymeleaf 기반 개인 포트폴리오
 
 ---
 
 ## 📫 Contact
 
-📧 nan0462@naver.com
+📧 **nan0462@naver.com**
